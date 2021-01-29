@@ -1,1 +1,1 @@
-# opencv_projects
+# cartoonify video project
